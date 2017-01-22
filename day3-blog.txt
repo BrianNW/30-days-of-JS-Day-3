@@ -1,0 +1,20 @@
+Goal : Allows the user to toggle the spacing, blur and base color of the main
+target picture using only CSS variables with JS
+declare an element like root (highest level like html element)
+.    
+Then create a base variable, spacing variable and blur variable
+.    
+To use a variable in CSS, use var() and pass it the variable
+
+
+What you need to know:
+
+CSS
+ CSS variables
+ filter
+ blur
+ :root
+
+JS
+ this keyword
+ setProperty
